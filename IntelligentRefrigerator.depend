@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1458024142 source:/home/anca/Desktop/workspace/IntelligentRefrigerator/IntelligentRefrigerator/Controller.c
+	"Controller.h"
+	<string.h>
+
+1458024114 /home/anca/Desktop/workspace/IntelligentRefrigerator/IntelligentRefrigerator/Controller.h
+	"FoodRepoDynamic.h"
+
+1457856437 /home/anca/Desktop/workspace/IntelligentRefrigerator/IntelligentRefrigerator/FoodRepo.h
+	"Food.h"
+
+1457856778 /home/anca/Desktop/workspace/IntelligentRefrigerator/IntelligentRefrigerator/Food.h
+
+1458148190 source:/home/anca/Desktop/workspace/IntelligentRefrigerator/IntelligentRefrigerator/Food.c
+	"Food.h"
+	<string.h>
+	<stdio.h>
+
+1457686776 source:/home/anca/Desktop/workspace/IntelligentRefrigerator/IntelligentRefrigerator/FoodRepo.c
+	"FoodRepo.h"
+	<stddef.h>
+	<string.h>
+	<assert.h>
+
+1458125124 source:/home/anca/Desktop/workspace/IntelligentRefrigerator/IntelligentRefrigerator/main.c
+	"FoodRepoDynamic.h"
+	"UI.h"
+	<crtdbg.h>
+
+1458147292 source:/home/anca/Desktop/workspace/IntelligentRefrigerator/IntelligentRefrigerator/UI.c
+	"UI.h"
+	<stdio.h>
+
+1457977480 /home/anca/Desktop/workspace/IntelligentRefrigerator/IntelligentRefrigerator/UI.h
+	"Controller.h"
+
+1458148078 /home/anca/Desktop/workspace/IntelligentRefrigerator/IntelligentRefrigerator/FoodRepoDynamic.h
+	"Food.h"
+
+1458148078 source:/home/anca/Desktop/workspace/IntelligentRefrigerator/IntelligentRefrigerator/FoodRepoDynamic.c
+	"FoodRepoDynamic.h"
+	<stddef.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+
