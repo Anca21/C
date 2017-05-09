@@ -1,4 +1,4 @@
-# OOP-C
+# C
 university project
 
 
